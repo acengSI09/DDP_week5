@@ -1,19 +1,12 @@
-# jenis_kendaraan = "Motor"
-# nama_kendaraan = "Zx25rr"
-# cc_kendaraan = "250cc"
-# warna_kendaraan = "hitam"
-# roda_kendaraan = "2"
-# print(f"Jenis Kendaraan: {jenis_kendaraan}")
-# print(f"Merek Kendaraan: {nama_kendaraan}")
-# print(f"cc Kendaraan: {cc_kendaraan}")
-# print(f"Warna Kendaraan: {warna_kendaraan}")
-# print(f"Roda Kendaraan: {roda_kendaraan}")
+my_list=["beat","motor","honda","110"]
+print(my_list)
 
-# kendaraan = ["zx25r", "Motor", "250cc"] 
-# kendaraan.append ("rp.120.000.000")
-# kendaraan.append ("manual")
-# kendaraan.insert (2,"kawasaki")
-# print(kendaraan)
+my_list=["beat","motor","honda","110"]
+my_list.append("putih")
+my_list.append("roda2")
+my_list.append("17juta")
+my_list.remove("motor")
+print(my_list)
 
 pesan = """
 menu:
